@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-simple-webserver",
+  "version": "0.0.1",
+  "description": "nodejs-simple-webserver",
+  "main": "src/bin/start.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
