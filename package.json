@@ -7,5 +7,10 @@
     "test": "test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-ejs": "^3.0.0",
+    "moment": "^2.15.1"
+  }
 }
