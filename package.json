@@ -10,7 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^1.2.4",
+    "koa-bodyparser": "^2.2.0",
     "koa-ejs": "^3.0.0",
-    "moment": "^2.15.1"
+    "koa-router": "^5.4.0",
+    "moment": "^2.15.1",
+    "mz": "^2.4.0"
   }
 }
